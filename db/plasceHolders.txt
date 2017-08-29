@@ -1,0 +1,6 @@
+LANG_how==Как работают функции Perl?
+LANG_function==Анонимные функции
+LANG_zam==Замыкания
+LANG_prot==Прототипы функций
+LANG_meth==Оверрайд методов
+LANG_autoload==AUTOLOAD
